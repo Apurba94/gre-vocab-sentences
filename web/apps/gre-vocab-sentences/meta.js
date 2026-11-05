@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-vocab-sentences", "title": "Sentence Writing with New Words", "exam": "GRE", "area": "TOEFL Planning and Both Tests", "desc": "Write your own sentence for each new GRE word, and check it uses the word in the right way.", "content": ["gre_words.json"], "n": 98};
